@@ -6,7 +6,7 @@ How to run
 > cd src
 > python3 game.py
 ```
-<img src="resources/screenshot.png">
+<img src="resource/screenshot.png">
 
 Note
 ----------
